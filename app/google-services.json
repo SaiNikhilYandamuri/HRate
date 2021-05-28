@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "308234822310",
+    "firebase_url": "https://hrate-b7061.firebaseio.com",
+    "project_id": "hrate-b7061",
+    "storage_bucket": "hrate-b7061.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308234822310:android:5d16a3aac357a451",
+        "android_client_info": {
+          "package_name": "com.example.mahe.hrate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "308234822310-f6icatpirts676ai45mng0qck96h21bd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mahe.hrate",
+            "certificate_hash": "a43d7047a508355883958d1486b2fbf418a28073"
+          }
+        },
+        {
+          "client_id": "308234822310-b3ctu6f8like5jedotegj21tr88ocm50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYfFqgrB2nk6Rbye2m5tYwilsocaeiC6s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "308234822310-b3ctu6f8like5jedotegj21tr88ocm50.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
